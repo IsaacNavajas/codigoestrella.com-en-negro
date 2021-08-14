@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.3660f239.chunk.css",
-    "main.js": "/static/js/main.eca5f76d.chunk.js",
-    "main.js.map": "/static/js/main.eca5f76d.chunk.js.map",
+    "main.css": "/static/css/main.dbee80cf.chunk.css",
+    "main.js": "/static/js/main.1082f808.chunk.js",
+    "main.js.map": "/static/js/main.1082f808.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.2ec26966.js",
     "runtime-main.js.map": "/static/js/runtime-main.2ec26966.js.map",
     "static/css/2.8aa5a7f8.chunk.css": "/static/css/2.8aa5a7f8.chunk.css",
-    "static/js/2.93bf76f5.chunk.js": "/static/js/2.93bf76f5.chunk.js",
-    "static/js/2.93bf76f5.chunk.js.map": "/static/js/2.93bf76f5.chunk.js.map",
+    "static/js/2.fe887914.chunk.js": "/static/js/2.fe887914.chunk.js",
+    "static/js/2.fe887914.chunk.js.map": "/static/js/2.fe887914.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.abf9bca1475498c7375261da0d43120a.js": "/precache-manifest.abf9bca1475498c7375261da0d43120a.js",
+    "precache-manifest.9880178bd1087646117993a070f8bfaa.js": "/precache-manifest.9880178bd1087646117993a070f8bfaa.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.8aa5a7f8.chunk.css.map": "/static/css/2.8aa5a7f8.chunk.css.map",
-    "static/css/main.3660f239.chunk.css.map": "/static/css/main.3660f239.chunk.css.map",
-    "static/js/2.93bf76f5.chunk.js.LICENSE.txt": "/static/js/2.93bf76f5.chunk.js.LICENSE.txt",
+    "static/css/main.dbee80cf.chunk.css.map": "/static/css/main.dbee80cf.chunk.css.map",
+    "static/js/2.fe887914.chunk.js.LICENSE.txt": "/static/js/2.fe887914.chunk.js.LICENSE.txt",
     "static/media/admin_css_mu.txt": "/static/media/admin_css_mu.b474ae53.txt",
     "static/media/archivos.zip": "/static/media/archivos.78584997.zip",
     "static/media/codezen 1.png": "/static/media/codezen 1.49b3fc8c.png",
@@ -81,7 +81,6 @@
     "static/media/diagramadevenn3.png": "/static/media/diagramadevenn3.4f86454c.png",
     "static/media/diagramadevenn4.png": "/static/media/diagramadevenn4.b91209a1.png",
     "static/media/diagramadevenn5.png": "/static/media/diagramadevenn5.169d627c.png",
-    "static/media/flap.jpg": "/static/media/flap.708b388a.jpg",
     "static/media/image 1.png": "/static/media/image 1.3118cde3.png",
     "static/media/image elementor.png": "/static/media/image elementor.14fac1e8.png",
     "static/media/image elementor2.png": "/static/media/image elementor2.9157fe3f.png",
@@ -113,8 +112,8 @@
   "entrypoints": [
     "static/js/runtime-main.2ec26966.js",
     "static/css/2.8aa5a7f8.chunk.css",
-    "static/js/2.93bf76f5.chunk.js",
-    "static/css/main.3660f239.chunk.css",
-    "static/js/main.eca5f76d.chunk.js"
+    "static/js/2.fe887914.chunk.js",
+    "static/css/main.dbee80cf.chunk.css",
+    "static/js/main.1082f808.chunk.js"
   ]
 }
