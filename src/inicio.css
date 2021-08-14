@@ -1,0 +1,185 @@
+/*@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&family=Pacifico&family=Sacramento&display=swap');*/
+
+@import url('https://fonts.googleapis.com/css2?family=Duru+Sans&family=Open+Sans+Condensed:wght@300&display=swap');
+
+
+.inicio {
+  max-width: 100%;
+  text-align: justify;
+  color:white;
+  background-color: black;
+  padding-bottom: 0%;
+  font-family: 'Duru Sans', sans-serif;
+  z-index:-10;
+}
+
+.logoCodigoEstrellla{
+  visibility: visible;
+  margin-top: 90px;
+  width: 120px;
+}
+
+.logoCodigoEstrelllados{
+  visibility: visible;
+  margin-top: 0px;
+  width: 140px;
+}
+
+.bottomCodigoEstrellla{
+    display: inline;
+    margin-bottom: 90%;
+}
+
+.lineagris{
+  position:relative;
+  margin-top: 100px;
+  width: 400px;
+  height: 4px;
+  margin-bottom: 180%;
+  background-color: rgb(78, 78, 78);
+
+}
+
+.lineagrisdesaparecer{
+  position:relative;
+  margin-top: 0px;
+  width: 0px;
+  height: 0px;
+
+  background-color: rgb(78, 78, 78);
+
+}
+
+.linea-amarilla-primera{
+  position:relative;
+  float:left;
+  width: 40px;
+  height: 4px;
+  background-color: rgb(255, 230, 0);
+  transition: all 2s;
+}
+
+.linea-amarilla-segunda{
+  position:relative;
+  float:left;
+  width: 150px;
+  height: 4px;
+  background-color: rgb(255, 230, 0);
+  transition: all 2s;
+}
+
+.linea-amarilla-tercera{
+  position:relative;
+  float:left;
+  width: 250px;
+  height: 4px;
+  background-color: rgb(255, 230, 0);
+  transition: all 2s;
+}
+
+.linea-amarilla-cuarta{
+  position:relative;
+  float:left;
+  width: 370px;
+  height: 4px;
+  background-color: rgb(255, 230, 0);
+  transition: all 2s;
+}
+
+.linea-amarilla-quinta{
+  position:relative;
+  float:left;
+  width: 410px;
+  height: 4px;
+  background-color: rgb(255, 230, 0);
+  transition: all 2s;
+}
+
+.linea-amarilla-sexta{
+  position:relative;
+  float:left;
+  width: 0px;
+  height: 0px;
+  transition: all 2s;
+}
+
+.desaparecer{
+  display:none;
+  transition: all 2s;
+  opacity: 0;
+}
+
+.desaparecerimagen{
+  opacity: 0;
+}
+
+.aparecer{
+  transition: all 2s;
+}
+
+.bigtitleWhite{
+    font-size: 50px;
+    color:transparent;
+    font-family: 'Fredericka the Great', cursive;
+    background-image: url("https://i.ibb.co/mq7vPkz/star-3.jpg");
+    background-position: center;
+    background-clip: text;
+  
+    -webkit-filter: invert(100%);
+    filter: invert(100%);
+  }
+
+#formulario{
+  margin-top:32%;
+}
+  .ModalYetiI{
+    position:fixed;
+    top:50%;
+    left:50%;
+    transform:translate(-50%, -50%);
+    width: 101%;
+    height: 101%;
+    background-color:rgba(185, 182, 28, 0.247);
+    z-index:100;
+    color:white;
+  }
+
+.modal-content-yetii{
+    position:absolute;
+    width: 50%;
+    height: 70%;
+    left: 25%;
+    top: 15% !important;
+}
+
+.modal-body-yetii{
+    overflow-y: hidden;
+    overflow-x: hidden;
+}
+.ImageModalYetii{
+  width: 30%;
+  border-radius: 90%;
+  -webkit-filter: grayscale(1);
+  filter: grayscale(1000);
+}
+.input_yetii{
+ 
+  margin-top:6%;
+  width: 60%;
+}
+.button_yetii{
+  margin-top:14px;
+  width: 40%;
+  text-align:center;
+}
+.button_yetiiwar{
+  margin-top:-29px;
+  width: 40%;
+  text-align:center;
+}
+.aviso{
+  font-size: 30px;
+  margin-top:30px;
+  font-weight: bold;
+  color:red;
+}
